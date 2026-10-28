@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0", "name": "地下停车场演示地图", "coordinate_system": "LOCAL_ENU_METERS",
+  "metadata": {"note": "演示地图，坐标单位为米"},
+  "lane_network": {"lanes": [
+    {"id":"L1","points":[[5,10],[70,10]],"width":4,"bidirectional":true},
+    {"id":"L2","points":[[70,10],[70,40]],"width":4,"bidirectional":true},
+    {"id":"L3","points":[[70,40],[5,40]],"width":4,"bidirectional":true},
+    {"id":"L4","points":[[5,40],[5,10]],"width":4,"bidirectional":true},
+    {"id":"L5","points":[[5,25],[70,25]],"width":4,"bidirectional":true}
+  ]},
+  "parking_spots": [
+    {"id":"A01","position":[10,17],"rotation_deg":0,"width":2.5,"length":5.2,"type":"car"},
+    {"id":"A02","position":[15,17],"rotation_deg":0,"width":2.5,"length":5.2,"type":"car"},
+    {"id":"A03","position":[20,17],"rotation_deg":0,"width":2.5,"length":5.2,"type":"car"},
+    {"id":"A04","position":[25,17],"rotation_deg":0,"width":2.5,"length":5.2,"type":"car"},
+    {"id":"A05","position":[30,17],"rotation_deg":0,"width":2.5,"length":5.2,"type":"car"},
+    {"id":"A06","position":[45,17],"rotation_deg":0,"width":2.5,"length":5.2,"type":"car"},
+    {"id":"A07","position":[50,17],"rotation_deg":0,"width":2.5,"length":5.2,"type":"car"},
+    {"id":"A08","position":[55,17],"rotation_deg":0,"width":2.5,"length":5.2,"type":"car"},
+    {"id":"B01","position":[10,33],"rotation_deg":0,"width":2.5,"length":5.2,"type":"car"},
+    {"id":"B02","position":[20,33],"rotation_deg":0,"width":2.5,"length":5.2,"type":"car"},
+    {"id":"B03","position":[30,33],"rotation_deg":0,"width":2.5,"length":5.2,"type":"car"},
+    {"id":"B04","position":[45,33],"rotation_deg":0,"width":2.5,"length":5.2,"type":"car"},
+    {"id":"B05","position":[55,33],"rotation_deg":0,"width":2.5,"length":5.2,"type":"car"}
+  ],
+  "entrances": [{"id":"入口A","position":[5,10],"type":"entrance"},{"id":"入口B","position":[70,40],"type":"entrance"}],
+  "static_obstacles": [{"id":"柱-01","polygon":[[34,17],[41,17],[41,22],[34,22]]}],
+  "uwb_anchors": [
+    {"id":"UWB-A1","position":[3,3,2.5]},{"id":"UWB-A2","position":[72,3,2.5]},
+    {"id":"UWB-A3","position":[72,47,2.5]},{"id":"UWB-A4","position":[3,47,2.5]}
+  ]
+}

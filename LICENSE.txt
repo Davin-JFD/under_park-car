@@ -1,0 +1,1 @@
+This generated project is provided for project prototyping and testing. Third-party packages retain their own licenses.

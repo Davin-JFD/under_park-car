@@ -1,0 +1,24 @@
+{
+  "map_file": "maps/parking_map.json",
+  "udp": {"host": "0.0.0.0", "imu_port": 19001, "uwb_port": 19002},
+  "fusion": {
+    "imu_accel_noise": 0.8,
+    "gyro_noise": 0.04,
+    "gyro_bias_noise": 0.003,
+    "uwb_default_std": 0.6,
+    "uwb_gate_mahalanobis": 9.21,
+    "map_match_max_distance": 4.0,
+    "map_match_weight": 0.10,
+    "uwb_enabled": true,
+    "turn_correction": {
+      "enabled": true,
+      "threshold_deg": 35.0,
+      "corner_tolerance": 6.0,
+      "snap_position": true,
+      "cooldown_dist": 3.0,
+      "align_deg": 6.0,
+      "stop_rate_deg": 1.5
+    }
+  },
+  "display": {"pixels_per_meter": 8.0, "trail_max_points": 3000}
+}

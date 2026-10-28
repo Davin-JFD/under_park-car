@@ -1,0 +1,3531 @@
+{
+  "schema_version": "1.0",
+  "name": "院系楼A栋负一层",
+  "coordinate_system": "LOCAL_ENU_METERS",
+  "metadata": {
+    "note": "由 院系楼A栋负一层建筑平面图_converted.dxf 自动生成，坐标单位为米"
+  },
+  "lane_network": {
+    "lanes": [
+      {
+        "id": "L001",
+        "points": [
+          [
+            83.543,
+            45.822
+          ],
+          [
+            188.243,
+            126.585
+          ]
+        ],
+        "width": 4.0,
+        "bidirectional": true
+      },
+      {
+        "id": "L002",
+        "points": [
+          [
+            67.643,
+            49.27
+          ],
+          [
+            97.043,
+            119.385
+          ]
+        ],
+        "width": 4.0,
+        "bidirectional": true
+      },
+      {
+        "id": "L003",
+        "points": [
+          [
+            122.843,
+            106.885
+          ],
+          [
+            132.683,
+            119.385
+          ]
+        ],
+        "width": 4.0,
+        "bidirectional": true
+      },
+      {
+        "id": "L004",
+        "points": [
+          [
+            116.243,
+            118.785
+          ],
+          [
+            116.843,
+            119.085
+          ]
+        ],
+        "width": 2.5,
+        "bidirectional": true
+      },
+      {
+        "id": "L005",
+        "points": [
+          [
+            109.643,
+            118.785
+          ],
+          [
+            110.243,
+            119.085
+          ]
+        ],
+        "width": 2.5,
+        "bidirectional": true
+      },
+      {
+        "id": "L006",
+        "points": [
+          [
+            103.043,
+            118.785
+          ],
+          [
+            103.643,
+            119.085
+          ]
+        ],
+        "width": 2.5,
+        "bidirectional": true
+      },
+      {
+        "id": "L007",
+        "points": [
+          [
+            172.043,
+            118.785
+          ],
+          [
+            172.643,
+            119.085
+          ]
+        ],
+        "width": 2.5,
+        "bidirectional": true
+      },
+      {
+        "id": "L008",
+        "points": [
+          [
+            165.443,
+            118.785
+          ],
+          [
+            166.043,
+            119.085
+          ]
+        ],
+        "width": 2.5,
+        "bidirectional": true
+      },
+      {
+        "id": "L009",
+        "points": [
+          [
+            158.843,
+            118.785
+          ],
+          [
+            159.443,
+            119.085
+          ]
+        ],
+        "width": 2.5,
+        "bidirectional": true
+      },
+      {
+        "id": "L010",
+        "points": [
+          [
+            152.243,
+            118.785
+          ],
+          [
+            152.843,
+            119.085
+          ]
+        ],
+        "width": 2.5,
+        "bidirectional": true
+      },
+      {
+        "id": "L011",
+        "points": [
+          [
+            145.643,
+            118.785
+          ],
+          [
+            146.243,
+            119.085
+          ]
+        ],
+        "width": 2.5,
+        "bidirectional": true
+      },
+      {
+        "id": "L012",
+        "points": [
+          [
+            126.702,
+            60.935
+          ],
+          [
+            132.683,
+            61.685
+          ]
+        ],
+        "width": 4.0,
+        "bidirectional": true
+      },
+      {
+        "id": "L013",
+        "points": [
+          [
+            129.068,
+            106.885
+          ],
+          [
+            132.683,
+            107.785
+          ]
+        ],
+        "width": 2.5,
+        "bidirectional": true
+      },
+      {
+        "id": "L014",
+        "points": [
+          [
+            78.743,
+            112.285
+          ],
+          [
+            88.163,
+            112.525
+          ]
+        ],
+        "width": 4.0,
+        "bidirectional": true
+      },
+      {
+        "id": "L015",
+        "points": [
+          [
+            160.863,
+            55.885
+          ],
+          [
+            170.623,
+            56.125
+          ]
+        ],
+        "width": 4.0,
+        "bidirectional": true
+      }
+    ]
+  },
+  "parking_spots": [
+    {
+      "id": "P001",
+      "position": [
+        114.846,
+        115.688
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P002",
+      "position": [
+        111.957,
+        115.688
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P003",
+      "position": [
+        121.578,
+        115.688
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P004",
+      "position": [
+        118.689,
+        115.688
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P005",
+      "position": [
+        137.507,
+        115.688
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P006",
+      "position": [
+        134.618,
+        115.688
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P007",
+      "position": [
+        144.107,
+        115.688
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P008",
+      "position": [
+        141.218,
+        115.688
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P009",
+      "position": [
+        150.707,
+        115.688
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P010",
+      "position": [
+        147.818,
+        115.688
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P011",
+      "position": [
+        157.307,
+        115.688
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P012",
+      "position": [
+        154.418,
+        115.688
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P013",
+      "position": [
+        163.907,
+        115.688
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P014",
+      "position": [
+        161.018,
+        115.688
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P015",
+      "position": [
+        114.846,
+        110.384
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P016",
+      "position": [
+        111.957,
+        110.384
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P017",
+      "position": [
+        121.578,
+        110.384
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P018",
+      "position": [
+        118.689,
+        110.384
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P019",
+      "position": [
+        137.507,
+        110.384
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P020",
+      "position": [
+        134.618,
+        110.384
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P021",
+      "position": [
+        144.107,
+        110.384
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P022",
+      "position": [
+        141.218,
+        110.384
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P023",
+      "position": [
+        150.707,
+        110.384
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P024",
+      "position": [
+        147.818,
+        110.384
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P025",
+      "position": [
+        157.307,
+        110.384
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P026",
+      "position": [
+        154.418,
+        110.384
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P027",
+      "position": [
+        163.907,
+        110.384
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P028",
+      "position": [
+        161.018,
+        110.384
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P029",
+      "position": [
+        95.046,
+        108.972
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P030",
+      "position": [
+        92.157,
+        108.972
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P031",
+      "position": [
+        80.114,
+        100.997
+      ],
+      "rotation_deg": 0.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P032",
+      "position": [
+        80.114,
+        98.295
+      ],
+      "rotation_deg": 0.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P033",
+      "position": [
+        114.846,
+        59.086
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P034",
+      "position": [
+        111.957,
+        59.086
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P035",
+      "position": [
+        121.578,
+        59.086
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P036",
+      "position": [
+        118.689,
+        59.086
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P037",
+      "position": [
+        137.507,
+        59.086
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P038",
+      "position": [
+        141.218,
+        59.086
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P039",
+      "position": [
+        150.707,
+        59.086
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P040",
+      "position": [
+        154.418,
+        59.086
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P041",
+      "position": [
+        163.907,
+        59.086
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P042",
+      "position": [
+        150.707,
+        96.242
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P043",
+      "position": [
+        147.818,
+        96.242
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P044",
+      "position": [
+        150.707,
+        90.937
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P045",
+      "position": [
+        147.818,
+        90.937
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P046",
+      "position": [
+        157.307,
+        96.242
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P047",
+      "position": [
+        154.418,
+        96.242
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P048",
+      "position": [
+        157.307,
+        90.937
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P049",
+      "position": [
+        154.418,
+        90.937
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P050",
+      "position": [
+        163.907,
+        96.242
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P051",
+      "position": [
+        161.018,
+        96.242
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P052",
+      "position": [
+        163.907,
+        90.937
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P053",
+      "position": [
+        161.018,
+        90.937
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P054",
+      "position": [
+        170.507,
+        96.242
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P055",
+      "position": [
+        167.618,
+        96.242
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P056",
+      "position": [
+        170.507,
+        90.937
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P057",
+      "position": [
+        167.618,
+        90.937
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P058",
+      "position": [
+        150.707,
+        77.287
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P059",
+      "position": [
+        147.818,
+        77.287
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P060",
+      "position": [
+        150.707,
+        71.982
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P061",
+      "position": [
+        147.818,
+        71.982
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P062",
+      "position": [
+        157.307,
+        77.287
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P063",
+      "position": [
+        154.418,
+        77.287
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P064",
+      "position": [
+        157.307,
+        71.982
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P065",
+      "position": [
+        154.418,
+        71.982
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P066",
+      "position": [
+        163.907,
+        77.287
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P067",
+      "position": [
+        161.018,
+        77.287
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P068",
+      "position": [
+        163.907,
+        71.982
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P069",
+      "position": [
+        161.018,
+        71.982
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P070",
+      "position": [
+        170.507,
+        77.287
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P071",
+      "position": [
+        167.618,
+        77.287
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P072",
+      "position": [
+        170.507,
+        71.982
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P073",
+      "position": [
+        167.618,
+        71.982
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P074",
+      "position": [
+        182.926,
+        93.709
+      ],
+      "rotation_deg": 180.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P075",
+      "position": [
+        182.926,
+        90.82
+      ],
+      "rotation_deg": 180.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P076",
+      "position": [
+        182.926,
+        96.597
+      ],
+      "rotation_deg": 180.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P077",
+      "position": [
+        182.926,
+        85.447
+      ],
+      "rotation_deg": 180.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P078",
+      "position": [
+        182.926,
+        82.956
+      ],
+      "rotation_deg": 180.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P079",
+      "position": [
+        182.926,
+        88.119
+      ],
+      "rotation_deg": 180.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P080",
+      "position": [
+        182.926,
+        74.584
+      ],
+      "rotation_deg": 180.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P081",
+      "position": [
+        182.926,
+        71.695
+      ],
+      "rotation_deg": 180.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P082",
+      "position": [
+        182.926,
+        77.472
+      ],
+      "rotation_deg": 180.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P083",
+      "position": [
+        182.926,
+        102.609
+      ],
+      "rotation_deg": 180.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P084",
+      "position": [
+        182.926,
+        99.72
+      ],
+      "rotation_deg": 180.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P085",
+      "position": [
+        182.926,
+        105.497
+      ],
+      "rotation_deg": 180.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P086",
+      "position": [
+        182.926,
+        65.902
+      ],
+      "rotation_deg": 180.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P087",
+      "position": [
+        182.926,
+        63.013
+      ],
+      "rotation_deg": 180.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P088",
+      "position": [
+        182.926,
+        68.791
+      ],
+      "rotation_deg": 180.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P089",
+      "position": [
+        144.107,
+        96.242
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P090",
+      "position": [
+        141.218,
+        96.242
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P091",
+      "position": [
+        144.107,
+        90.937
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P092",
+      "position": [
+        141.218,
+        90.937
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P093",
+      "position": [
+        144.107,
+        77.287
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P094",
+      "position": [
+        141.218,
+        77.287
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P095",
+      "position": [
+        144.107,
+        71.982
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P096",
+      "position": [
+        141.218,
+        71.982
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P097",
+      "position": [
+        128.307,
+        96.242
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P098",
+      "position": [
+        125.418,
+        96.242
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P099",
+      "position": [
+        131.196,
+        96.242
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P100",
+      "position": [
+        128.307,
+        72.169
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P101",
+      "position": [
+        125.418,
+        72.169
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P102",
+      "position": [
+        131.196,
+        72.169
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P103",
+      "position": [
+        114.707,
+        96.242
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P104",
+      "position": [
+        111.818,
+        96.242
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P105",
+      "position": [
+        114.707,
+        90.937
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P106",
+      "position": [
+        111.818,
+        90.937
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P107",
+      "position": [
+        80.114,
+        66.511
+      ],
+      "rotation_deg": 0.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P108",
+      "position": [
+        80.114,
+        68.965
+      ],
+      "rotation_deg": 0.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P109",
+      "position": [
+        108.107,
+        96.242
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P110",
+      "position": [
+        105.218,
+        96.242
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P111",
+      "position": [
+        108.107,
+        90.937
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P112",
+      "position": [
+        105.218,
+        90.937
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P113",
+      "position": [
+        101.507,
+        96.242
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P114",
+      "position": [
+        98.618,
+        96.242
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P115",
+      "position": [
+        101.507,
+        90.937
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P116",
+      "position": [
+        98.618,
+        90.937
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P117",
+      "position": [
+        94.907,
+        96.242
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P118",
+      "position": [
+        92.018,
+        96.242
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P119",
+      "position": [
+        94.907,
+        90.937
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P120",
+      "position": [
+        92.018,
+        90.937
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P121",
+      "position": [
+        114.707,
+        77.287
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P122",
+      "position": [
+        111.818,
+        77.287
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P123",
+      "position": [
+        114.707,
+        71.982
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P124",
+      "position": [
+        111.818,
+        71.982
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P125",
+      "position": [
+        108.107,
+        77.287
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P126",
+      "position": [
+        105.218,
+        77.287
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P127",
+      "position": [
+        108.107,
+        71.982
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P128",
+      "position": [
+        105.218,
+        71.982
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P129",
+      "position": [
+        101.507,
+        77.287
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P130",
+      "position": [
+        98.618,
+        77.287
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P131",
+      "position": [
+        101.507,
+        71.982
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P132",
+      "position": [
+        98.618,
+        71.982
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P133",
+      "position": [
+        94.907,
+        77.287
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P134",
+      "position": [
+        92.018,
+        77.287
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P135",
+      "position": [
+        94.907,
+        71.982
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P136",
+      "position": [
+        92.018,
+        71.982
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P137",
+      "position": [
+        121.307,
+        96.242
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P138",
+      "position": [
+        118.418,
+        96.242
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P139",
+      "position": [
+        121.307,
+        90.937
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P140",
+      "position": [
+        118.418,
+        90.937
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P141",
+      "position": [
+        121.307,
+        77.287
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P142",
+      "position": [
+        118.418,
+        77.287
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P143",
+      "position": [
+        121.307,
+        71.982
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P144",
+      "position": [
+        118.418,
+        71.982
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P145",
+      "position": [
+        137.507,
+        96.242
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P146",
+      "position": [
+        134.618,
+        96.242
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P147",
+      "position": [
+        137.507,
+        90.937
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P148",
+      "position": [
+        134.618,
+        90.937
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P149",
+      "position": [
+        137.507,
+        77.287
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P150",
+      "position": [
+        134.618,
+        77.287
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P151",
+      "position": [
+        137.507,
+        71.982
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P152",
+      "position": [
+        134.618,
+        71.982
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P153",
+      "position": [
+        123.975,
+        90.937
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P154",
+      "position": [
+        128.07,
+        90.937
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P155",
+      "position": [
+        124.074,
+        77.287
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P156",
+      "position": [
+        127.911,
+        77.287
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P157",
+      "position": [
+        182.926,
+        80.501
+      ],
+      "rotation_deg": 180.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P158",
+      "position": [
+        80.152,
+        94.374
+      ],
+      "rotation_deg": 0.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P159",
+      "position": [
+        80.152,
+        91.486
+      ],
+      "rotation_deg": 0.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P160",
+      "position": [
+        80.152,
+        85.447
+      ],
+      "rotation_deg": 0.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P161",
+      "position": [
+        80.152,
+        82.956
+      ],
+      "rotation_deg": 0.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P162",
+      "position": [
+        80.152,
+        88.119
+      ],
+      "rotation_deg": 0.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P163",
+      "position": [
+        80.152,
+        74.584
+      ],
+      "rotation_deg": 0.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P164",
+      "position": [
+        80.152,
+        71.695
+      ],
+      "rotation_deg": 0.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P165",
+      "position": [
+        80.152,
+        77.472
+      ],
+      "rotation_deg": 0.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P166",
+      "position": [
+        80.152,
+        80.501
+      ],
+      "rotation_deg": 0.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P167",
+      "position": [
+        108.246,
+        115.688
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P168",
+      "position": [
+        105.357,
+        115.688
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P169",
+      "position": [
+        108.246,
+        110.384
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P170",
+      "position": [
+        105.357,
+        110.384
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P171",
+      "position": [
+        108.246,
+        59.086
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P172",
+      "position": [
+        105.357,
+        59.086
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P173",
+      "position": [
+        93.301,
+        113.663
+      ],
+      "rotation_deg": 0.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P174",
+      "position": [
+        93.301,
+        116.551
+      ],
+      "rotation_deg": 0.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P175",
+      "position": [
+        170.507,
+        59.086
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P176",
+      "position": [
+        167.618,
+        59.086
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P177",
+      "position": [
+        170.507,
+        115.688
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P178",
+      "position": [
+        167.618,
+        115.688
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P179",
+      "position": [
+        170.507,
+        110.384
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P180",
+      "position": [
+        167.618,
+        110.384
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P181",
+      "position": [
+        174.218,
+        59.086
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P182",
+      "position": [
+        95.046,
+        59.086
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P183",
+      "position": [
+        92.157,
+        59.086
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P184",
+      "position": [
+        88.446,
+        59.086
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P185",
+      "position": [
+        85.557,
+        59.086
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P186",
+      "position": [
+        131.509,
+        77.287
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P187",
+      "position": [
+        131.464,
+        90.937
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P188",
+      "position": [
+        80.114,
+        63.994
+      ],
+      "rotation_deg": 0.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P189",
+      "position": [
+        80.114,
+        103.77
+      ],
+      "rotation_deg": 0.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P190",
+      "position": [
+        88.464,
+        108.972
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P191",
+      "position": [
+        85.575,
+        108.972
+      ],
+      "rotation_deg": 270.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P192",
+      "position": [
+        134.811,
+        59.086
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P193",
+      "position": [
+        143.916,
+        59.086
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P194",
+      "position": [
+        157.079,
+        59.086
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P195",
+      "position": [
+        147.898,
+        59.086
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    },
+    {
+      "id": "P196",
+      "position": [
+        161.233,
+        59.086
+      ],
+      "rotation_deg": 90.0,
+      "width": 2.5,
+      "length": 5.2,
+      "type": "car"
+    }
+  ],
+  "entrances": [
+    {
+      "id": "入口A",
+      "position": [
+        67.643,
+        45.822
+      ],
+      "type": "entrance"
+    },
+    {
+      "id": "入口B",
+      "position": [
+        188.243,
+        126.585
+      ],
+      "type": "entrance"
+    }
+  ],
+  "static_obstacles": [
+    {
+      "id": "柱-01",
+      "polygon": [
+        [
+          187.543,
+          98.185
+        ],
+        [
+          188.343,
+          98.185
+        ],
+        [
+          188.343,
+          98.985
+        ],
+        [
+          187.543,
+          98.985
+        ]
+      ]
+    },
+    {
+      "id": "柱-02",
+      "polygon": [
+        [
+          67.543,
+          69.585
+        ],
+        [
+          68.343,
+          69.585
+        ],
+        [
+          68.343,
+          70.385
+        ],
+        [
+          67.543,
+          70.385
+        ]
+      ]
+    },
+    {
+      "id": "柱-03",
+      "polygon": [
+        [
+          67.543,
+          118.085
+        ],
+        [
+          68.343,
+          118.085
+        ],
+        [
+          68.343,
+          118.885
+        ],
+        [
+          67.543,
+          118.885
+        ]
+      ]
+    },
+    {
+      "id": "柱-04",
+      "polygon": [
+        [
+          67.543,
+          109.785
+        ],
+        [
+          68.343,
+          109.785
+        ],
+        [
+          68.343,
+          110.585
+        ],
+        [
+          67.543,
+          110.585
+        ]
+      ]
+    },
+    {
+      "id": "柱-05",
+      "polygon": [
+        [
+          67.543,
+          50.285
+        ],
+        [
+          68.343,
+          50.285
+        ],
+        [
+          68.343,
+          51.085
+        ],
+        [
+          67.543,
+          51.085
+        ]
+      ]
+    },
+    {
+      "id": "柱-06",
+      "polygon": [
+        [
+          187.543,
+          69.585
+        ],
+        [
+          188.343,
+          69.585
+        ],
+        [
+          188.343,
+          70.385
+        ],
+        [
+          187.543,
+          70.385
+        ]
+      ]
+    },
+    {
+      "id": "柱-07",
+      "polygon": [
+        [
+          187.543,
+          58.285
+        ],
+        [
+          188.343,
+          58.285
+        ],
+        [
+          188.343,
+          59.085
+        ],
+        [
+          187.543,
+          59.085
+        ]
+      ]
+    },
+    {
+      "id": "柱-08",
+      "polygon": [
+        [
+          67.543,
+          58.285
+        ],
+        [
+          68.343,
+          58.285
+        ],
+        [
+          68.343,
+          59.085
+        ],
+        [
+          67.543,
+          59.085
+        ]
+      ]
+    },
+    {
+      "id": "柱-09",
+      "polygon": [
+        [
+          187.343,
+          89.455
+        ],
+        [
+          188.143,
+          89.455
+        ],
+        [
+          188.143,
+          90.255
+        ],
+        [
+          187.343,
+          90.255
+        ]
+      ]
+    },
+    {
+      "id": "柱-10",
+      "polygon": [
+        [
+          187.343,
+          78.315
+        ],
+        [
+          188.143,
+          78.315
+        ],
+        [
+          188.143,
+          79.115
+        ],
+        [
+          187.343,
+          79.115
+        ]
+      ]
+    },
+    {
+      "id": "柱-11",
+      "polygon": [
+        [
+          123.343,
+          58.435
+        ],
+        [
+          124.143,
+          58.435
+        ],
+        [
+          124.143,
+          59.235
+        ],
+        [
+          123.343,
+          59.235
+        ]
+      ]
+    },
+    {
+      "id": "柱-12",
+      "polygon": [
+        [
+          123.343,
+          61.135
+        ],
+        [
+          124.143,
+          61.135
+        ],
+        [
+          124.143,
+          61.935
+        ],
+        [
+          123.343,
+          61.935
+        ]
+      ]
+    },
+    {
+      "id": "柱-13",
+      "polygon": [
+        [
+          123.343,
+          69.735
+        ],
+        [
+          124.143,
+          69.735
+        ],
+        [
+          124.143,
+          70.535
+        ],
+        [
+          123.343,
+          70.535
+        ]
+      ]
+    },
+    {
+      "id": "柱-14",
+      "polygon": [
+        [
+          129.743,
+          89.455
+        ],
+        [
+          130.543,
+          89.455
+        ],
+        [
+          130.543,
+          90.255
+        ],
+        [
+          129.743,
+          90.255
+        ]
+      ]
+    },
+    {
+      "id": "柱-15",
+      "polygon": [
+        [
+          125.343,
+          89.455
+        ],
+        [
+          126.143,
+          89.455
+        ],
+        [
+          126.143,
+          90.255
+        ],
+        [
+          125.343,
+          90.255
+        ]
+      ]
+    },
+    {
+      "id": "柱-16",
+      "polygon": [
+        [
+          129.743,
+          78.315
+        ],
+        [
+          130.543,
+          78.315
+        ],
+        [
+          130.543,
+          79.115
+        ],
+        [
+          129.743,
+          79.115
+        ]
+      ]
+    },
+    {
+      "id": "柱-17",
+      "polygon": [
+        [
+          125.343,
+          78.315
+        ],
+        [
+          126.143,
+          78.315
+        ],
+        [
+          126.143,
+          79.115
+        ],
+        [
+          125.343,
+          79.115
+        ]
+      ]
+    },
+    {
+      "id": "柱-18",
+      "polygon": [
+        [
+          123.343,
+          109.635
+        ],
+        [
+          124.143,
+          109.635
+        ],
+        [
+          124.143,
+          110.435
+        ],
+        [
+          123.343,
+          110.435
+        ]
+      ]
+    },
+    {
+      "id": "柱-19",
+      "polygon": [
+        [
+          123.343,
+          106.635
+        ],
+        [
+          124.143,
+          106.635
+        ],
+        [
+          124.143,
+          107.435
+        ],
+        [
+          123.343,
+          107.435
+        ]
+      ]
+    },
+    {
+      "id": "柱-20",
+      "polygon": [
+        [
+          123.343,
+          98.035
+        ],
+        [
+          124.143,
+          98.035
+        ],
+        [
+          124.143,
+          98.835
+        ],
+        [
+          123.343,
+          98.835
+        ]
+      ]
+    },
+    {
+      "id": "柱-21",
+      "polygon": [
+        [
+          89.743,
+          109.635
+        ],
+        [
+          90.543,
+          109.635
+        ],
+        [
+          90.543,
+          110.435
+        ],
+        [
+          89.743,
+          110.435
+        ]
+      ]
+    },
+    {
+      "id": "柱-22",
+      "polygon": [
+        [
+          102.943,
+          109.635
+        ],
+        [
+          103.743,
+          109.635
+        ],
+        [
+          103.743,
+          110.435
+        ],
+        [
+          102.943,
+          110.435
+        ]
+      ]
+    },
+    {
+      "id": "柱-23",
+      "polygon": [
+        [
+          109.543,
+          109.635
+        ],
+        [
+          110.343,
+          109.635
+        ],
+        [
+          110.343,
+          110.435
+        ],
+        [
+          109.543,
+          110.435
+        ]
+      ]
+    },
+    {
+      "id": "柱-24",
+      "polygon": [
+        [
+          116.143,
+          109.635
+        ],
+        [
+          116.943,
+          109.635
+        ],
+        [
+          116.943,
+          110.435
+        ],
+        [
+          116.143,
+          110.435
+        ]
+      ]
+    },
+    {
+      "id": "柱-25",
+      "polygon": [
+        [
+          96.343,
+          109.635
+        ],
+        [
+          97.143,
+          109.635
+        ],
+        [
+          97.143,
+          110.435
+        ],
+        [
+          96.343,
+          110.435
+        ]
+      ]
+    },
+    {
+      "id": "柱-26",
+      "polygon": [
+        [
+          83.143,
+          106.635
+        ],
+        [
+          83.943,
+          106.635
+        ],
+        [
+          83.943,
+          107.435
+        ],
+        [
+          83.143,
+          107.435
+        ]
+      ]
+    },
+    {
+      "id": "柱-27",
+      "polygon": [
+        [
+          89.743,
+          106.635
+        ],
+        [
+          90.543,
+          106.635
+        ],
+        [
+          90.543,
+          107.435
+        ],
+        [
+          89.743,
+          107.435
+        ]
+      ]
+    },
+    {
+      "id": "柱-28",
+      "polygon": [
+        [
+          96.343,
+          106.635
+        ],
+        [
+          97.143,
+          106.635
+        ],
+        [
+          97.143,
+          107.435
+        ],
+        [
+          96.343,
+          107.435
+        ]
+      ]
+    },
+    {
+      "id": "柱-29",
+      "polygon": [
+        [
+          102.943,
+          106.635
+        ],
+        [
+          103.743,
+          106.635
+        ],
+        [
+          103.743,
+          107.435
+        ],
+        [
+          102.943,
+          107.435
+        ]
+      ]
+    },
+    {
+      "id": "柱-30",
+      "polygon": [
+        [
+          116.143,
+          106.635
+        ],
+        [
+          116.943,
+          106.635
+        ],
+        [
+          116.943,
+          107.435
+        ],
+        [
+          116.143,
+          107.435
+        ]
+      ]
+    },
+    {
+      "id": "柱-31",
+      "polygon": [
+        [
+          109.543,
+          106.635
+        ],
+        [
+          110.343,
+          106.635
+        ],
+        [
+          110.343,
+          107.435
+        ],
+        [
+          109.543,
+          107.435
+        ]
+      ]
+    },
+    {
+      "id": "柱-32",
+      "polygon": [
+        [
+          76.543,
+          106.485
+        ],
+        [
+          77.343,
+          106.485
+        ],
+        [
+          77.343,
+          107.285
+        ],
+        [
+          76.543,
+          107.285
+        ]
+      ]
+    },
+    {
+      "id": "柱-33",
+      "polygon": [
+        [
+          122.743,
+          109.785
+        ],
+        [
+          123.543,
+          109.785
+        ],
+        [
+          123.543,
+          110.585
+        ],
+        [
+          122.743,
+          110.585
+        ]
+      ]
+    },
+    {
+      "id": "柱-34",
+      "polygon": [
+        [
+          122.743,
+          106.485
+        ],
+        [
+          123.543,
+          106.485
+        ],
+        [
+          123.543,
+          107.285
+        ],
+        [
+          122.743,
+          107.285
+        ]
+      ]
+    },
+    {
+      "id": "柱-35",
+      "polygon": [
+        [
+          83.243,
+          118.385
+        ],
+        [
+          84.043,
+          118.385
+        ],
+        [
+          84.043,
+          119.185
+        ],
+        [
+          83.243,
+          119.185
+        ]
+      ]
+    },
+    {
+      "id": "柱-36",
+      "polygon": [
+        [
+          76.543,
+          109.785
+        ],
+        [
+          77.343,
+          109.785
+        ],
+        [
+          77.343,
+          110.585
+        ],
+        [
+          76.543,
+          110.585
+        ]
+      ]
+    },
+    {
+      "id": "柱-37",
+      "polygon": [
+        [
+          76.443,
+          118.385
+        ],
+        [
+          77.243,
+          118.385
+        ],
+        [
+          77.243,
+          119.185
+        ],
+        [
+          76.443,
+          119.185
+        ]
+      ]
+    },
+    {
+      "id": "柱-38",
+      "polygon": [
+        [
+          83.143,
+          109.635
+        ],
+        [
+          83.943,
+          109.635
+        ],
+        [
+          83.943,
+          110.435
+        ],
+        [
+          83.143,
+          110.435
+        ]
+      ]
+    },
+    {
+      "id": "柱-39",
+      "polygon": [
+        [
+          138.943,
+          106.635
+        ],
+        [
+          139.743,
+          106.635
+        ],
+        [
+          139.743,
+          107.435
+        ],
+        [
+          138.943,
+          107.435
+        ]
+      ]
+    },
+    {
+      "id": "柱-40",
+      "polygon": [
+        [
+          145.543,
+          109.635
+        ],
+        [
+          146.343,
+          109.635
+        ],
+        [
+          146.343,
+          110.435
+        ],
+        [
+          145.543,
+          110.435
+        ]
+      ]
+    },
+    {
+      "id": "柱-41",
+      "polygon": [
+        [
+          152.143,
+          109.635
+        ],
+        [
+          152.943,
+          109.635
+        ],
+        [
+          152.943,
+          110.435
+        ],
+        [
+          152.143,
+          110.435
+        ]
+      ]
+    },
+    {
+      "id": "柱-42",
+      "polygon": [
+        [
+          165.343,
+          109.635
+        ],
+        [
+          166.143,
+          109.635
+        ],
+        [
+          166.143,
+          110.435
+        ],
+        [
+          165.343,
+          110.435
+        ]
+      ]
+    },
+    {
+      "id": "柱-43",
+      "polygon": [
+        [
+          171.943,
+          109.635
+        ],
+        [
+          172.743,
+          109.635
+        ],
+        [
+          172.743,
+          110.435
+        ],
+        [
+          171.943,
+          110.435
+        ]
+      ]
+    },
+    {
+      "id": "柱-44",
+      "polygon": [
+        [
+          158.743,
+          109.635
+        ],
+        [
+          159.543,
+          109.635
+        ],
+        [
+          159.543,
+          110.435
+        ],
+        [
+          158.743,
+          110.435
+        ]
+      ]
+    },
+    {
+      "id": "柱-45",
+      "polygon": [
+        [
+          145.543,
+          106.635
+        ],
+        [
+          146.343,
+          106.635
+        ],
+        [
+          146.343,
+          107.435
+        ],
+        [
+          145.543,
+          107.435
+        ]
+      ]
+    },
+    {
+      "id": "柱-46",
+      "polygon": [
+        [
+          152.143,
+          106.635
+        ],
+        [
+          152.943,
+          106.635
+        ],
+        [
+          152.943,
+          107.435
+        ],
+        [
+          152.143,
+          107.435
+        ]
+      ]
+    },
+    {
+      "id": "柱-47",
+      "polygon": [
+        [
+          165.343,
+          106.635
+        ],
+        [
+          166.143,
+          106.635
+        ],
+        [
+          166.143,
+          107.435
+        ],
+        [
+          165.343,
+          107.435
+        ]
+      ]
+    },
+    {
+      "id": "柱-48",
+      "polygon": [
+        [
+          171.943,
+          106.635
+        ],
+        [
+          172.743,
+          106.635
+        ],
+        [
+          172.743,
+          107.435
+        ],
+        [
+          171.943,
+          107.435
+        ]
+      ]
+    },
+    {
+      "id": "柱-49",
+      "polygon": [
+        [
+          158.743,
+          106.635
+        ],
+        [
+          159.543,
+          106.635
+        ],
+        [
+          159.543,
+          107.435
+        ],
+        [
+          158.743,
+          107.435
+        ]
+      ]
+    },
+    {
+      "id": "柱-50",
+      "polygon": [
+        [
+          132.343,
+          106.485
+        ],
+        [
+          133.143,
+          106.485
+        ],
+        [
+          133.143,
+          107.285
+        ],
+        [
+          132.343,
+          107.285
+        ]
+      ]
+    }
+  ],
+  "uwb_anchors": [
+    {
+      "id": "UWB-01",
+      "position": [
+        180.243,
+        55.885,
+        2.5
+      ]
+    },
+    {
+      "id": "UWB-02",
+      "position": [
+        179.535,
+        55.194,
+        2.5
+      ]
+    },
+    {
+      "id": "UWB-03",
+      "position": [
+        174.952,
+        54.545,
+        2.5
+      ]
+    },
+    {
+      "id": "UWB-04",
+      "position": [
+        174.952,
+        52.03,
+        2.5
+      ]
+    },
+    {
+      "id": "UWB-05",
+      "position": [
+        80.918,
+        54.545,
+        2.5
+      ]
+    },
+    {
+      "id": "UWB-06",
+      "position": [
+        80.918,
+        52.03,
+        2.5
+      ]
+    },
+    {
+      "id": "UWB-07",
+      "position": [
+        154.94,
+        51.785,
+        2.5
+      ]
+    },
+    {
+      "id": "UWB-08",
+      "position": [
+        154.74,
+        51.785,
+        2.5
+      ]
+    }
+  ]
+}
